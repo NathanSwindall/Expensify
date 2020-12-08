@@ -1,0 +1,7 @@
+Porfolio Roiuter
+show header/nav baron all page includeing 404
+
+/            -> Home page ( in nav)
+/Porfolio    -> Porfolio home page with links to itmes (in nav)
+/Porfolio/123 -> Individual portfolio item page that shows the ID
+/contact      -> Contact page ( in nav)
